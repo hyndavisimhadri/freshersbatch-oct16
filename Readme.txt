@@ -1,2 +1,2 @@
-Hii!
-I'm Hyndavi Simhadri
+Hello!
+I am Hyndavi Simhadri
