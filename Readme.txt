@@ -2,5 +2,5 @@ Hello!
 <<<<<<< HEAD
 I'm Hyndavi 
 =======
-I am learning git
+I'm learning git
 >>>>>>> html-assignments
