@@ -2,5 +2,6 @@ Hello!
 <<<<<<< HEAD
 I'm Hyndavi 
 =======
-I am Hyndavi Simhadri
+I am learning git
+I created github account
 >>>>>>> html-assignments
